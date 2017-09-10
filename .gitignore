@@ -10,3 +10,5 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 .env
+/matrix-admin-package
+/old 8-3-17
